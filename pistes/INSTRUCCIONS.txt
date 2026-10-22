@@ -1,0 +1,4 @@
+ARXIU DE LA INVESTIGACIÓ
+No totes les pistes són al mateix lloc.
+Algunes només es veuen quan canvies de branca.
+Una altra ha quedat enterrada en l'historial.
