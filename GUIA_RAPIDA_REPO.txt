@@ -1,0 +1,9 @@
+BRANQUES DISPONIBLES:
+- main
+- pista-fantasma
+- pista-calabaca
+- codi-infiltrat
+- arxiu-prohibit
+- historial-secret
+
+La branca de solució l'ha de crear l'alumnat.
