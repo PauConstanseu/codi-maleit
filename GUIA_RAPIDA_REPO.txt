@@ -1,7 +1,7 @@
 BRANQUES DISPONIBLES:
 - main
 - pista-fantasma
-- pista-calabaca
+- pista-carabassa
 - codi-infiltrat
 - arxiu-prohibit
 - historial-secret
