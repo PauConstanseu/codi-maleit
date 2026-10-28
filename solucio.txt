@@ -1,0 +1,25 @@
+Procés d’investigació
+
+1. Exploració del repositori
+
+En primer lloc, vaig descarregar una còpia del repositori de GitHub utilitzant la comanda git clone. A continuació, vaig executar git branch -a per consultar totes les branques existents i començar a buscar les pistes.
+
+Durant aquesta primera exploració, vaig localitzar diverses branques, com ara pista-fantasma, pista-carabassa, codi-infiltrat, historial-secret i arxiu-prohibit, a més de la branca principal main.
+
+2. Localització de les pistes
+
+Després, vaig examinar les diferents branques i vaig revisar els commits amb la comanda git show. D’aquesta manera, vaig poder analitzar els canvis realitzats i recuperar les diferents parts del codi secret.
+
+Branca pista-fantasma: vaig localitzar el primer fragment del codi, LLUNA.
+
+Branca pista-carabassa: vaig descobrir el segon fragment, 31, que feia referència a la nit del 31 d’octubre.
+
+Branca codi-infiltrat: vaig trobar un comentari en un document HTML que contenia el tercer fragment, CLAU. A més, aquesta pista indicava que no m’havia de limitar a consultar la branca main.
+
+Branca historial-secret: vaig revisar els commits anteriors i vaig recuperar el fragment secret PORTA, que havia desaparegut després d’un canvi posterior.
+
+Gràcies a aquesta investigació, vaig entendre que l’historial de Git permet consultar i recuperar informació que ja no es troba en els fitxers actuals.
+
+I això seria tot!!
+
+PauC
