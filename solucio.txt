@@ -1,25 +1,58 @@
-Procés d’investigació
+╔══════════════════════════════════════════════╗
+       🔎 PROCÉS D’INVESTIGACIÓ
+             💻 EL CODI MALEÏT
+╚══════════════════════════════════════════════╝
 
-1. Exploració del repositori
+👤 Autor: Pau Constanseu
 
-En primer lloc, vaig descarregar una còpia del repositori de GitHub utilitzant la comanda git clone. A continuació, vaig executar git branch -a per consultar totes les branques existents i començar a buscar les pistes.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Durant aquesta primera exploració, vaig localitzar diverses branques, com ara pista-fantasma, pista-carabassa, codi-infiltrat, historial-secret i arxiu-prohibit, a més de la branca principal main.
+📁 1. EXPLORACIÓ DEL REPOSITORI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-2. Localització de les pistes
+En primer lloc, vaig descarregar una còpia del repositori de GitHub utilitzant la comanda:
 
-Després, vaig examinar les diferents branques i vaig revisar els commits amb la comanda git show. D’aquesta manera, vaig poder analitzar els canvis realitzats i recuperar les diferents parts del codi secret.
+    git clone
 
-Branca pista-fantasma: vaig localitzar el primer fragment del codi, LLUNA.
+A continuació, vaig executar `git branch -a` per consultar totes les branques disponibles i començar a buscar les pistes.
 
-Branca pista-carabassa: vaig descobrir el segon fragment, 31, que feia referència a la nit del 31 d’octubre.
+🔍 Durant aquesta exploració, vaig trobar les branques següents:
 
-Branca codi-infiltrat: vaig trobar un comentari en un document HTML que contenia el tercer fragment, CLAU. A més, aquesta pista indicava que no m’havia de limitar a consultar la branca main.
+    🌙 pista-fantasma
+    🎃 pista-carabassa
+    🕵️ codi-infiltrat
+    🔐 historial-secret
+    📂 arxiu-prohibit
+    🌿 main
 
-Branca historial-secret: vaig revisar els commits anteriors i vaig recuperar el fragment secret PORTA, que havia desaparegut després d’un canvi posterior.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Gràcies a aquesta investigació, vaig entendre que l’historial de Git permet consultar i recuperar informació que ja no es troba en els fitxers actuals.
+🧩 2. LOCALITZACIÓ DE LES PISTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-I això seria tot!!
+Vaig investigar les diferents branques i vaig consultar els commits amb la comanda `git show`. Això em va permetre analitzar els canvis i recuperar els fragments del codi secret.
 
-PauC
+🌙 PISTA-FANTASMA
+   ➜ Primer fragment: LLUNA
+
+🎃 PISTA-CARABASSA
+   ➜ Segon fragment: 31
+   ➜ Relacionat amb la nit del 31 d’octubre.
+
+🕵️ CODI-INFILTRAT
+   ➜ Tercer fragment: CLAU
+   ➜ Trobat en un comentari d’un fitxer HTML.
+   ➜ La pista advertia que no havia de confiar
+     únicament en la branca main.
+
+🔐 HISTORIAL-SECRET
+   ➜ Quart fragment: PORTA
+   ➜ Recuperat de l’historial dels commits,
+     ja que havia estat esborrat posteriorment.
+
+💡 APRENENTATGE:
+Aquesta investigació em va permetre descobrir que
+l’historial de Git conserva informació que es pot
+recuperar encara que ja no aparegui als fitxers actuals.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
